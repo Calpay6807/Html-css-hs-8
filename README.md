@@ -37,6 +37,7 @@ Bu bölüm, sunulan kursların bir listesini içerir. Her kurs için bir başlı
 
 -cdn için:https://cdnjs.com/
 -icon için:https://fontawesome.com/icons/magnifying-glass?f=classic&s=solid
+--yeni bölüm eklendi
 
 <h1>Proje Gif</h1>
 
